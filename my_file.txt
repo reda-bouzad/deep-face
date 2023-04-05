@@ -1,0 +1,5 @@
+                                          identity  ...  VGG-Face_cosine
+0    /home/reda/Pictures/persons/Harit/Harit3.jpeg  ...         0.374750
+1  /home/reda/Pictures/persons/Boufal/Boufal1.jpeg  ...         0.399927
+
+[2 rows x 6 columns]
