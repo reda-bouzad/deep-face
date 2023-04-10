@@ -1,4 +1,0 @@
-                                          identity  source_x  source_y  source_w  source_h  Facenet_cosine
-0   /home/reda/Pictures/persons/Hakimi/Hakimi1.jpg       619       126       751       751        0.189963
-1   /home/reda/Pictures/persons/Hakimi/Hakimi3.jpg       619       126       751       751        0.261201
-2  /home/reda/Pictures/persons/Hakimi/Hakimi2.jpeg       619       126       751       751        0.310027

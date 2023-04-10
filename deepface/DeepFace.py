@@ -705,6 +705,7 @@ def stream(
     This function applies real time face recognition and facial attribute analysis
 
     Parameters:
+            enable_face_analysis:
             db_path (string): facial database path. You should store some .jpg files in this folder.
 
             model_name (string): VGG-Face, Facenet, Facenet512, OpenFace, DeepFace, DeepID, Dlib,
